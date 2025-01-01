@@ -42,6 +42,9 @@
   </h4>
 </div>
 
+![vp_banner2.png](assets/media/vp_banner2.png.png)
+
+
 **ScooterGitTemplate** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
 
 Branches
